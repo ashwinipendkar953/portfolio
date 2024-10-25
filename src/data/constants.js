@@ -14,7 +14,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ashwinipendkar953",
   linkedin: "https://www.linkedin.com/in/ashwinipendkar953",
-  resume: "https://app.rezi.ai/s/Sl3c9k9eUEdyvOuzYy7o",
+  resume: "https://drive.google.com/file/d/1OhRBXl6Na-28UCog1lRTdHAtjk2ISNOT/view?usp=sharing",
 };
 
 export const experiences = [
