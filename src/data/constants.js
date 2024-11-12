@@ -123,8 +123,27 @@ export const skills = [
 ];
 
 export const projects = [
-  {
+    {
     id: 1,
+    title: "Weather App",
+    // date: "Nov 2024 - Nov 2024",
+    description:
+      "A comprehensive weather dashboard application built with React (frontend) and Node.js (backend). This application allows users to track weather conditions for multiple cities, view detailed weather information, and manage tracked cities. Weather data is fetched from a weather API and updated hourly for accurate results.
+,
+    tags: [
+      "React Js",
+      "Express Js",
+      "MongoDB",
+      "Bootstrap",
+      "Rechart",
+      "Tailwind css"
+    ],
+    category: "web app",
+    github:
+      "https://github.com/ashwinipendkar953/weather-app",
+    webapp: "https://weather-app-pi-puce-66.vercel.app/",
+  },  {
+    id: 2,
     title: "Data visualization dashboard",
     // date: "Aug 2024 - Aug 2024",
     description:
@@ -144,7 +163,7 @@ export const projects = [
     webapp: "https://moonshot-data-visualization-app.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Emart - Shopping App",
     // date: "Sep 2024 - Sep 2024",
     description:
@@ -163,10 +182,10 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/ashwinipendkar953/Emart",
-    webapp: "https://emart-pearl.vercel.app/",
+    webapp: "https://emart-pearl.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Email Client",
     // date: "Aug 2024 - Aug 2024",
     description:
@@ -178,7 +197,7 @@ export const projects = [
     webapp: "https://arp-moonshot-email-client-app.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Meetup Clone",
     // date: "JUn 2024 - Aug 2024",
     description:
